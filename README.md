@@ -23,3 +23,10 @@
 - The amount of day cases and inpatients has remained relatively stable from 2018-2021, whereas the outpatients has increased steadily
 - Paediatric dermatology has on average the longest wait time
 ####
+
+#### PowerBI-Healthcare dashboard overview
+
+C:\Users\Rob.Holliday\OneDrive - UK Health Security Agency\Documents\PowerBi practice\Healthcare Data Project
+How to add screenshot?
+
+####
