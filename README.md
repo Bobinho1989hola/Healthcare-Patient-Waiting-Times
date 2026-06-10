@@ -1,5 +1,13 @@
 ## Patient waiting times dashboard ##
 
+### Project Overview
+
+- The goal of the project is to track the status of 'current' patient waiting times and to analyse historical monthly trends for waiting lists for both inpatients and outpatients. The years were from 2018-2021
+
+<br>
+
+---
+
 #### Business Objecitves:
 - Track 'current' status of patient waiting list
 - Analyse historical monthly trend of waiting list in inpatient and outpatient
