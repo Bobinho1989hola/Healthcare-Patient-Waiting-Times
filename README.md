@@ -48,5 +48,5 @@
 
 #### PowerBI-Healthcare dashboard overview
 
-![Healthcare Patient waiting times dashboard](images/Healthcare%20Data%20Project.png)
+![Healthcare-Patient-waiting-times-dashboard](Images/Healthcare%20Data%20Project.png)
 
