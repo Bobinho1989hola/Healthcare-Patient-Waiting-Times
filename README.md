@@ -40,7 +40,5 @@
 
 #### PowerBI-Healthcare dashboard overview
 
-C:\Users\Rob.Holliday\OneDrive - UK Health Security Agency\Documents\PowerBi practice\Healthcare Data Project
-How to add screenshot?
-
+![Healthcare- Patient waiting times dashboard](images/Healthcare Data Project.png)
 
